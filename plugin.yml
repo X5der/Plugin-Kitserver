@@ -3,3 +3,6 @@ main: KitsMc\Main
 version: "1.0.0v"
 api: [3.0.0]
 author: pluginer_mc
+commands:
+  commandname:
+    description: By Create Pluginer_mc
