@@ -1,5 +1,5 @@
-name: ServerKits
-main: ServerKits\Main
+name: KitMc
+main: KitMc\Main
 version: "1.0.0v"
 api: [3.0.0]
 author: pluginer_mc
